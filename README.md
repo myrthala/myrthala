@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @myrthala
 - 👀 I’m interested in Automation and App development
-- 🌱 I’m currently learning how to code in html with css
+- 🌱 I’m currently learning how to code html with css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
